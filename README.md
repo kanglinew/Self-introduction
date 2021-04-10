@@ -4,7 +4,7 @@
 **邮箱**&nbsp;&nbsp;perfnkl@stu.hubu.edu.cn<br>
 **微信/QQ** &nbsp;113527787<br>
 **个人主页**&nbsp;&nbsp;[https://kanglinew.github.io](https://kanglinew.github.io "https://kanglinew.github.io")<br>
-**GitHub主页**&nbsp;&nbsp;[https://github.com/kanglinew](https://github.com/kanglinew "https://github.com/kanglinew")
+**GitHub主页**&nbsp;&nbsp;[https://github.com/kanglinew](https://github.com/kanglinew "https://github.com/kanglinew")<br>
 ***
 我是一名对计算机有浓厚兴趣的学生，目前排名专业第1。我在深度学习图像处理方面有丰富的项目经历和知识储备，自学数据结构、深度学习等课程，参与多个导师的横向课题，具有扎实的代码复现、论文读写能力。现已发表SCI论文1篇，中文核心2篇，受理专利2项，软件著作权2项，IEEE ACCESS 审稿人，能够独立进行论文撰写和文章发表工作，具有较强的科研兴趣和业务能力。
 电子信息工程 本科 计算机与信息工程学院 中共党员<br>
